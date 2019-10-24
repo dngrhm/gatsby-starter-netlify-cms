@@ -3,7 +3,7 @@ templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: So good you can't stop drinking it
-subheading: 'Drink it while it is still hot '
+subheading: Deliciously support local farmers
 mainpitch:
   title: Why Kaldi
   description: >
